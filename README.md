@@ -3,7 +3,7 @@ Just A Normal File Managing System That Divides The Different Types Of File Exte
 To Run This Follow This Steps..
 
 Step 0:Clone This Repo
-
+  
           git clone https://github.com/kailai-13/File_Manager
           cd File_Manager
 
