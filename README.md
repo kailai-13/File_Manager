@@ -1,8 +1,8 @@
 Just A Normal File Managing System That Divides The Different Types Of File Extentions Into Different File Directories According To The User Needs.....
  
 To Run This Follow This Steps..
-
-Step 0:Clone This Repo
+  
+Step 0: Clone This Repo
   
           git clone https://github.com/kailai-13/File_Manager
           cd File_Manager
