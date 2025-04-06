@@ -11,7 +11,7 @@ Step 1: Install Requirements
    
           pip install streamlit watchdog
 
-Step 2: Run The App
+Step 2: Run The App  
 
           streamlit run manager.py
 it is easy and realiable to use
