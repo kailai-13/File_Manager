@@ -8,7 +8,7 @@ Step 0:Clone This Repo
           cd File_Manager
 
 Step 1: Install Requirements
-
+   
           pip install streamlit watchdog
 
 Step 2: Run The App
